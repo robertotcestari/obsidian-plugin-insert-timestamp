@@ -1,11 +1,11 @@
 {
-	"id": "insert-timestamp",
-	"name": "Insert Timestamp",
-	"version": "1.0.1",
-	"minAppVersion": "0.15.0",
-	"description": "Easily insert timestamps, dates, and times into your Obsidian notes with simple commands.",
-	"author": "Roberto Cestari",
-	"authorUrl": "https://robertocestari.com",
-	"fundingUrl": "",
-	"isDesktopOnly": false
+  "id": "insert-timestamp",
+  "name": "Insert Timestamp",
+  "version": "1.0.2",
+  "minAppVersion": "0.15.0",
+  "description": "Easily insert timestamps, dates, and times into your notes with simple commands.",
+  "author": "Roberto Cestari",
+  "authorUrl": "https://robertocestari.com",
+  "fundingUrl": "",
+  "isDesktopOnly": false
 }

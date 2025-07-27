@@ -1,6 +1,6 @@
-# Timestamp Plugin for Obsidian
+# Timestamp Plugin
 
-This plugin allows you to easily insert timestamps, dates, and times into your Obsidian notes with simple commands.
+This plugin allows you to easily insert timestamps, dates, and times into your notes with simple commands.
 
 ## Features
 
@@ -13,15 +13,14 @@ This plugin allows you to easily insert timestamps, dates, and times into your O
 
 1. Download the latest release from the [releases page](https://github.com/your-username/timestamp-plugin/releases)
 2. Extract the downloaded file
-3. Move the extracted folder to your Obsidian vault's `.obsidian/plugins` directory
-4. In Obsidian, go to Settings > Community plugins
-5. Enable "Timestamp Plugin" in the list of installed plugins
+3. Move the extracted folder to your application's plugins directory
+4. Enable the "Timestamp Plugin" in your application's settings
 
 ## Usage
 
 ### Commands
 
-The plugin provides three commands that can be accessed through the Obsidian command palette (`Ctrl/Cmd + P`):
+The plugin provides three commands that can be accessed through the command palette (`Ctrl/Cmd + P`):
 
 1. **Insert timestamp** - Inserts a timestamp with both date and time
 
@@ -59,17 +58,17 @@ Example custom formats:
 
 ## Requirements
 
-- Obsidian v0.15.0 or higher
+- Application version v0.15.0 or higher
 
 ## Author
 
-Roberto
+Roberto Cestari
 
 ## License
 
 MIT License
 
-Copyright (c) 2023 Roberto
+Copyright (c) 2023 Roberto Cestari
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

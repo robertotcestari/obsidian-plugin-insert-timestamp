@@ -1,7 +1,7 @@
 {
-  "name": "obsidian-plugin-insert-timestamp",
-  "version": "1.0.1",
-  "description": "An Obsidian plugin to insert timestamps",
+  "name": "insert-timestamp-plugin",
+  "version": "1.0.2",
+  "description": "A plugin to insert timestamps, dates, and times",
   "main": "main.js",
   "scripts": {
     "dev": "node esbuild.config.mjs",
